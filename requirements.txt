@@ -3,7 +3,7 @@ backcall==0.1.0
 certifi==2019.3.9
 chardet==3.0.4
 decorator==4.4.0
-Django==1.11.19
+Django==1.11.23
 django-filter==2.1.0
 djangorestframework==3.9.2
 idna==2.8
